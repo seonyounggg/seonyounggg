@@ -16,7 +16,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=seonyounggg&count_private=true&show_icons=true&theme=default&hide=stars&hide_border=true&hide_title=true&bg_color=f5faff"/>
 
 #### 📱 Contact
-<a href="mailto:parkseonyoung1213@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/seonyoung-park" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a> <a href="mailto:parkseonyoung1213@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 <div align="center">
 
